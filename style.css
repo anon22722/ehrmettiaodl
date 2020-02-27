@@ -52,4 +52,5 @@ p {
 .pictureBack img{
   border: 10px solid #b30522;
   max-width: 100%;
+  max-height: 50%;
 }
